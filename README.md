@@ -15,6 +15,7 @@ I'm Boris, a French aspiring web developer, currently in The Hacking Project's B
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Oh My ZSH](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 👨‍💻 Languages & Frameworks
@@ -28,6 +29,16 @@ I'm Boris, a French aspiring web developer, currently in The Hacking Project's B
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61D)
 
+### ⚗ Other Tools
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-0000EC?style=for-the-badge&logo=Ableton%20Live&logoColor=white)
+![Reaper](https://img.shields.io/badge/Reaper-B86652?style=for-the-badge)
+![PureData](https://img.shields.io/badge/Pure%20Data-3AC73E?style=for-the-badge)
+![OpenMusic](https://img.shields.io/badge/OpenMusic-eeeeee?style=for-the-badge)
+
+
 ## 📈 GitHub Stats
 
 <a href='https://github.com/Beygs/Beygs'>
@@ -36,6 +47,10 @@ I'm Boris, a French aspiring web developer, currently in The Hacking Project's B
 
 <a href='https://github.com/Beygs/Beygs'>
   <img align='center' src='https://github-readme-stats.vercel.app/api?username=Beygs'/>
+</a>
+
+<a href='https://github.com/Beygs/Beygs'>
+  <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=Beygs'/>
 </a>
 
 <!--
