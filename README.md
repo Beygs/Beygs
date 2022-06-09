@@ -1,4 +1,4 @@
-# Hi there ! <img src="https://raw.githubusercontent.com/Beygs/Beygs/master/assets/waving_hand_sign_1024.gif" width="40px">
+# Hi there ! <!-- ![Waving Hand](https://raw.githubusercontent.com/Beygs/Beygs/master/assets/waving_hand_sign_1024.gif) -->
 
 I'm Boris, a French aspiring web developer, currently in The Hacking Project's Bootcamp
 
